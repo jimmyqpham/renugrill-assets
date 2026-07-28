@@ -1,0 +1,511 @@
+[
+  {
+    "name": "agsi_cgct_badge_transparent_56acf544.png",
+    "status": 200,
+    "bytes": 241620,
+    "content_type": "image/png",
+    "sha256": "a4d3e149e85faf49553cf168cbbf9309fd2df727d93c5cbe42d5a974622d4216",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "agsi_logo_transparent_c02d01c7.png",
+    "status": 200,
+    "bytes": 74777,
+    "content_type": "image/png",
+    "sha256": "aa18bd2b98afc027ff12238b714e6f54956134c37ee930e7ebcd0c7ffa4a4f19",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "americanexpress_6913338a.svg",
+    "status": 200,
+    "bytes": 1206,
+    "content_type": "image/svg+xml",
+    "sha256": "52c75baa1c05af510c5017a200f40094bba37a6ccbb2fe5ce2542f331b812204",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "applepay_254f96d4.svg",
+    "status": 200,
+    "bytes": 2986,
+    "content_type": "image/svg+xml",
+    "sha256": "a1aedf64c61a6c121aa0e78164ad0d32f1ebbfd949197c88c7f48462bcbed3ab",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "brand_aog_color_372e0e96.png",
+    "status": 200,
+    "bytes": 11118,
+    "content_type": "image/png",
+    "sha256": "d160c3f0651c84567d80a31c50bec68b2dc5a1fe031e54d7e55e8c067113dc4a",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "brand_blaze_color_9bc40465.png",
+    "status": 200,
+    "bytes": 12921,
+    "content_type": "image/png",
+    "sha256": "8de1b567f5fe4f21621f5802c624819c5a9d9af29b15b1057f73a36d5133768a",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "brand_bull_color_20e94500.png",
+    "status": 200,
+    "bytes": 27592,
+    "content_type": "image/png",
+    "sha256": "9a6e1b862ce2d9abfdbb9a5031c2ae882e440d294f7d686fe2f4a86728303db3",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "brand_dcs_color_24c51abd.png",
+    "status": 200,
+    "bytes": 39107,
+    "content_type": "image/png",
+    "sha256": "476013c2990b8005c57ece8be9d7a76450f54c44269fd5458771f5494159dafa",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "brand_fire_magic_color_18f95495.png",
+    "status": 200,
+    "bytes": 16262,
+    "content_type": "image/png",
+    "sha256": "00820279845a8d1a93449d1d730115b857bb01a6b2fb2e87c4b043ab0301fda0",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "brand_lynx_color_d71efe84.png",
+    "status": 200,
+    "bytes": 25402,
+    "content_type": "image/png",
+    "sha256": "a8a89fbbb6ee16dc82c14793201ac5b8af8833f232d1ab4d48c29f678bc83a0b",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "brand_napoleon_color_dd42acb9.png",
+    "status": 200,
+    "bytes": 45220,
+    "content_type": "image/png",
+    "sha256": "b37df24fb2b3c3598164decaf95fa3ebb5e328f1299cd4adac24b63b2dda9063",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "brand_summerset_color_223f2492.png",
+    "status": 200,
+    "bytes": 14675,
+    "content_type": "image/png",
+    "sha256": "0d7783a9fe55a1303abb0fd573d81df478f5a7060813aca7b74bffaec6a33b53",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "brand_twin_eagles_color_6743efc9.png",
+    "status": 200,
+    "bytes": 15187,
+    "content_type": "image/png",
+    "sha256": "87cb7673f7f1e11a2ea398f93ed46e83cbbe953bce4461231344ba9c21ed1a60",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "brand_viking_color_4576d009.png",
+    "status": 200,
+    "bytes": 12680,
+    "content_type": "image/png",
+    "sha256": "80dac8232829941bccb7469e5ea40227ff7a56bf07fa786cbb406258134d9774",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "brand_weber_color_9c9494d0.png",
+    "status": 200,
+    "bytes": 15279,
+    "content_type": "image/png",
+    "sha256": "a0112b117cf389a116775838d5cbd6bc01d3c92a8a1afe106e82105a2f7521e2",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "brand_wolf_color_eb34fc56.png",
+    "status": 200,
+    "bytes": 27395,
+    "content_type": "image/png",
+    "sha256": "eb69215e6ae0da94c2579f44a4c8760c9a6046b23bd53c29c2aaaf780a9b1542",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "cashapp_a9459008.svg",
+    "status": 200,
+    "bytes": 1394,
+    "content_type": "image/svg+xml",
+    "sha256": "880d2b790069e44a5ac9b19ea84372fb6289a1cddae239a7aea7d948fd9faa3a",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "discover_587a4d0a.svg",
+    "status": 200,
+    "bytes": 3087,
+    "content_type": "image/svg+xml",
+    "sha256": "a9e66fbb3fb33098304147be606afc2b8e8c8f745db8a83bb6b2d7a0a9a42abc",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "favicon_grill_9bcb6625.svg",
+    "status": 200,
+    "bytes": 40013,
+    "content_type": "image/svg+xml",
+    "sha256": "3eaac598f2b9b1d750788f2cd1eac770bc950781f1ca01c5fac86ec265277e4b",
+    "ok": true,
+    "references": [
+      "index.html"
+    ]
+  },
+  {
+    "name": "googlepay_f81d35b5.svg",
+    "status": 200,
+    "bytes": 3115,
+    "content_type": "image/svg+xml",
+    "sha256": "85d63842ff30824d4324316344c9eea12995869cc3f5f353fbfa2c3008980222",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "hero_before_after_polaroid_5fbc8485.webp",
+    "status": 200,
+    "bytes": 88636,
+    "content_type": "image/webp",
+    "sha256": "b5280fdf6901191bed3ace7606c4045fc5c1119499064ae7eab86a9dd9b88cdb",
+    "ok": true,
+    "references": [
+      "index.html"
+    ]
+  },
+  {
+    "name": "hero_polaroid_gray50_f11cb4c9.webp",
+    "status": 200,
+    "bytes": 206532,
+    "content_type": "image/webp",
+    "sha256": "d8cbaf6b33cc2412ed3cf6a692d2f405c5781190325ea9cff92cf40562939993",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "jcb_c74d057a.svg",
+    "status": 200,
+    "bytes": 3876,
+    "content_type": "image/svg+xml",
+    "sha256": "4e8f269a2bf9b6d132634125bfe865e6342103f4cbd7953951d16c3442a24216",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "lifestyle_customer1_cropped_73d773ac.webp",
+    "status": 200,
+    "bytes": 54176,
+    "content_type": "image/webp",
+    "sha256": "ab72425c6191807f45daab03ddea8fdd5057b2ba90e07d45069a36c0c171bca9",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "lifestyle_customer2_clean_0bf13bc9.webp",
+    "status": 200,
+    "bytes": 54506,
+    "content_type": "image/webp",
+    "sha256": "17d54c3f361dbc43014e3d2dd63151bc5b216acbd8b4263151e83ffc84d48607",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "mastercard_26973397.svg",
+    "status": 200,
+    "bytes": 1657,
+    "content_type": "image/svg+xml",
+    "sha256": "0b6808d0e93f753a1036f42b52c1a2616662d1503f8d07234a98ee54d7a3dd1e",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "org_hpba_color_c8ebf082.png",
+    "status": 200,
+    "bytes": 22654,
+    "content_type": "image/png",
+    "sha256": "185144100d8de8e667276d485945967294bde3a382b459dcc77ec39eada27e77",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "org_nextdoor_color_ee673c59.png",
+    "status": 200,
+    "bytes": 39348,
+    "content_type": "image/png",
+    "sha256": "01b3491eafbd9e2e6441c4adffee5bdcd36034451fe1af4ffb2454ab8629dcff",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "org_nfi_color_23367741.png",
+    "status": 200,
+    "bytes": 19280,
+    "content_type": "image/png",
+    "sha256": "cf4bf800a09d708ea6008c4571d42db8939ebb261cdf196a3c785ec58d963240",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "org_sacramento_mag_color_9f8a440c.png",
+    "status": 200,
+    "bytes": 54476,
+    "content_type": "image/png",
+    "sha256": "4580af3d5b6ec126ca147d5c489445a9339658866b60cca9fd2ee7beaa25058d",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "org_sf_weekly_color_bf3fed36.png",
+    "status": 200,
+    "bytes": 12388,
+    "content_type": "image/png",
+    "sha256": "019f341233cde6847b8da693bdcf19c0ef87234b9a920dee16ba055b615f6670",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "org_thehomemag_color_4d092b6e.png",
+    "status": 200,
+    "bytes": 11164,
+    "content_type": "image/png",
+    "sha256": "70c9754e8da4660f125ee78a788010b3069850504bc65da0b4d16f26474ebe0b",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "org_thumbtack_color_cd705e35.png",
+    "status": 200,
+    "bytes": 13233,
+    "content_type": "image/png",
+    "sha256": "6cc2dbe4f4527dca9edb437f82526698ee3b5369c3055ed93636b48e7c4230db",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "pair1_after_final_a5dac437.webp",
+    "status": 200,
+    "bytes": 65162,
+    "content_type": "image/webp",
+    "sha256": "63428b171a9be7e5c07b6925fa57fea1bd7d01a7234f1fe92016eb3edd9a703f",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "pair1_before_final_3d10e9eb.webp",
+    "status": 200,
+    "bytes": 163266,
+    "content_type": "image/webp",
+    "sha256": "9217f81b1ab26d0189cdb0bcc6507b8c2407f538d837c6aebf158cdda49cf689",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "pair2_after_final_333c181a.webp",
+    "status": 200,
+    "bytes": 73230,
+    "content_type": "image/webp",
+    "sha256": "f771ede90203d1efd6d3d7223747e1c6d55c7d0de8c9fcd382780a1b66338aff",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "pair2_before_final_fb4e3db2.webp",
+    "status": 200,
+    "bytes": 163426,
+    "content_type": "image/webp",
+    "sha256": "74f11dd8c5b4e5d43a3f147a74bdb54364675feed3db9446728180cf8ebc4814",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "pair3_after_final_5c10f62d.webp",
+    "status": 200,
+    "bytes": 60040,
+    "content_type": "image/webp",
+    "sha256": "8a60bf6c9a51e45f935fade4f09e7fd0acb6de0a58aa482da2b893713b0b3867",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "pair3_before_final_558d8e78.webp",
+    "status": 200,
+    "bytes": 119788,
+    "content_type": "image/webp",
+    "sha256": "090850174e50ca47c2f25606b3521fac24d5d239078e87b53b92d085829c9d5f",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "pair4_after_final_8a304d81.webp",
+    "status": 200,
+    "bytes": 58288,
+    "content_type": "image/webp",
+    "sha256": "18cf0639464f49047d0e47384a8cfc25ee831199f9ed59cbb754cd6478c55c3b",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "pair4_before_final_b68b11aa.webp",
+    "status": 200,
+    "bytes": 163660,
+    "content_type": "image/webp",
+    "sha256": "993714cedc9a06405eec424030ee52654595a43891cbfe99b1137e5c8e176576",
+    "ok": true,
+    "references": [
+      "src/data/homeData.ts"
+    ]
+  },
+  {
+    "name": "renugrill_logo_1aef8791.svg",
+    "status": 200,
+    "bytes": 49273,
+    "content_type": "image/svg+xml",
+    "sha256": "3a87de24f0853e7da138b9571f76176cb63da5804e4663692963113d239d14a9",
+    "ok": true,
+    "references": [
+      "index.html",
+      "src/pages/Home.tsx",
+      "src/pages/Privacy.tsx"
+    ]
+  },
+  {
+    "name": "renugrill_logo_96293e0f.png",
+    "status": 200,
+    "bytes": 68298,
+    "content_type": "image/png",
+    "sha256": "4966f874c5093e2ed021f6492dd9c998d070a2a84d877e37f2846a29e3985960",
+    "ok": true,
+    "references": [
+      "src/components/AIChat.tsx"
+    ]
+  },
+  {
+    "name": "team_photo_enhanced_e98a7665.webp",
+    "status": 200,
+    "bytes": 50420,
+    "content_type": "image/webp",
+    "sha256": "f3062cd8a879b77df83bb3ca0d64e2ad7f1f451a8e65cb083dd43440c9e2ca9d",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "technician_work_photo_86b5e83f.webp",
+    "status": 200,
+    "bytes": 165062,
+    "content_type": "image/webp",
+    "sha256": "e80e1c948aefdb509b99ccab6621e3f7f5e218a964caeee856d1c53e38fa185b",
+    "ok": true,
+    "references": [
+      "index.html",
+      "src/pages/Home.tsx"
+    ]
+  },
+  {
+    "name": "visa_1d21167e.svg",
+    "status": 200,
+    "bytes": 2247,
+    "content_type": "image/svg+xml",
+    "sha256": "0647e086fe11b0748687b68e25c9d2830b8fa08c4397c6c7c6e327d5e8e6c43d",
+    "ok": true,
+    "references": [
+      "src/pages/Home.tsx"
+    ]
+  }
+]
